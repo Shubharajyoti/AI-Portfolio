@@ -44,14 +44,9 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project directory:
-
-Bash
-
-cd your-repo-name
-Open index.html in your browser:
-Simply double-click the index.html file, or use a live server extension in your code editor (like Live Server for VS Code) for the best experience with automatic reloads.
+    cd your-repo-name
+    Open index.html in your browser:
+    Simply double-click the index.html file, or use a live server extension in your code editor (like Live Server for VS Code) for the best experience with automatic reloads.
 
 Configuration (For AI Chatbot)
 The AI chatbot requires a Google Gemini API key to function.
@@ -62,7 +57,7 @@ Update the Script: Open the index.html file and find the <script> section at the
 
 JavaScript
 
-const apiKey = 'AIzaSyAlxLz-l5C7ZtpKiPmHEiOQrrL3USBZJno'; // Replace with your actual Gemini API key
+const apiKey = 'Add your API'; // Replace with your actual Gemini API key
 Replace the placeholder with your actual Gemini API key.
 
 🌟 Acknowledgements
